@@ -1,0 +1,17 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+#search {
+  margin-left: 10px;
+}
+#cantidad {
+  margin-left: 10px;
+}
+#results {
+  margin-top: 40px;
+  width: 600px;
+  border: 1px solid darkgray;
+  background-color: lightgray;
+  height: 50px;
+}
